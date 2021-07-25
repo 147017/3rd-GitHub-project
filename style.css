@@ -1,0 +1,26 @@
+.container h1 {
+    color: magenta;
+    font-variant: small-caps;
+    font-family: monospace;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: peachpuff;
+}
+
+#myCarousel img {
+
+    margin-top: 35px;
+}
+
+.carousel-inner h2 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: slateblue;
+    font-size: 20px;
+    font-family: monospace;
+}
